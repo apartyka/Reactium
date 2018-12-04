@@ -33,9 +33,6 @@ Organisms are groups of molecules joined together to form a relatively complex, 
 
 Templates consist mostly of groups of organisms stitched together to form pages.
 
-### Pages
-
-Pages are specific instances of templates. Here, placeholder content is replaced with real representative content to give an accurate depiction of what a user will ultimately see.
 
 # Creating Elements
 
